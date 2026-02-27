@@ -36,20 +36,6 @@ Cybersecurity undergraduate at Aston University with a strong interest in Govern
 
 ---
 
-## 📂 Highlighted Project
-
-### Security Audit and Exploitation Lab
-
-- Configured an isolated virtual lab environment using VirtualBox
-- Conducted system enumeration and vulnerability identification
-- Exploited misconfigured permissions to demonstrate privilege escalation risks
-- Documented findings in a structured security audit report
-- Reflected on mitigation strategies and system hardening improvements
-
-Full technical report available upon request.
-
----
-
 ## 📈 Currently Developing
 
 - Google Cybersecurity Professional Certificate
