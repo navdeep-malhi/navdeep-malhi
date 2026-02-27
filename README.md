@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Navdeep Malhi 👋
 
-<!--
-**navdeep-malhi/navdeep-malhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity undergraduate at Aston University with a strong interest in Governance, Risk and Compliance (GRC), information security frameworks and organisational resilience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- Currently achieving a consistent 70% academic average
+- Awarded Certificate of Higher Education in Computing
+- Experienced in risk assessment, security auditing and structured technical reporting
+- Practical exposure to vulnerability analysis within controlled lab environments
+- Interested in bridging technical security with business risk and regulatory requirements
+
+---
+
+## 🔐 Areas of Interest
+
+- Governance, Risk and Compliance (GRC)
+- ISO 27001 and security framework alignment
+- Risk assessment and mitigation planning
+- Security policy development
+- Data protection and secure information handling
+- Organisational resilience and security strategy
+
+---
+
+## 🛠 Technical Exposure
+
+- Kali Linux and virtual machine environments
+- Wireshark and Nmap for network analysis
+- Privilege escalation techniques within Linux systems
+- Python scripting fundamentals
+- GitHub version control
+- Structured audit reporting
+
+---
+
+## 📂 Highlighted Project
+
+### Security Audit and Exploitation Lab
+
+- Configured an isolated virtual lab environment using VirtualBox
+- Conducted system enumeration and vulnerability identification
+- Exploited misconfigured permissions to demonstrate privilege escalation risks
+- Documented findings in a structured security audit report
+- Reflected on mitigation strategies and system hardening improvements
+
+Full technical report available upon request.
+
+---
+
+## 📈 Currently Developing
+
+- Google Cybersecurity Professional Certificate
+- TryHackMe practical labs
+- Expanding knowledge of ISO 27001 and security governance principles
+- Strengthening technical and risk analysis capability
+
+---
+
+Thank you for visiting my profile.
